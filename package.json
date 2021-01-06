@@ -1,0 +1,8 @@
+{
+  "name": "pty-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/camtheperson/pty-bot",
+  "author": "Cameron Hermens",
+  "license": "MIT"
+}
